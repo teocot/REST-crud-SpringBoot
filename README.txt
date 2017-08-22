@@ -6,11 +6,8 @@ This folder contains the code and the executable for the CRUD project which
 builds REST services for managing customer records. The executable is 27MB containing 
 tomcat and all the required libraries to run the application and tests. 
 Therefore it may not be possible to send it through email. 
-It is why I uploaded the project and executable on 
-my website and can be downloaded from :
-http://teoprograms.com/java-rest-crud/teo-customer-crud.zip
-Please download and unzip to a new directory. 
-Then follow the instructions below in order to run and test the REST servives I created.
+
+Follow the instructions below in order to run and test the REST servives I created.
 The "curent directory" in this file, means the directory that contains the pom.xml file and the README.txt.
 Details of the application, what it does, how to run and how to test it are below.
 
