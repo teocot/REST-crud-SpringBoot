@@ -1,0 +1,13 @@
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\controller\rest\AddressREST.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\model\Address.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\service\exception\AddressAlreadyExistsException.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\controller\rest\CustomerREST.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\service\CustomerService.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\Application.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\repository\AddressRepository.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\service\AddressService.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\repository\CustomerRepository.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\service\CustomerServiceImpl.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\model\Customer.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\service\exception\CustomerAlreadyExistsException.java
+c:\dev\crud-vodafone\teo-customer-crud\src\main\java\com\teo\crud\data\service\AddressServiceImpl.java

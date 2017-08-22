@@ -1,0 +1,13 @@
+com\teo\crud\Application.class
+com\teo\crud\controller\rest\CustomerREST.class
+com\teo\crud\data\model\Customer.class
+com\teo\crud\data\repository\CustomerRepository.class
+com\teo\crud\data\service\AddressService.class
+com\teo\crud\data\service\exception\CustomerAlreadyExistsException.class
+com\teo\crud\data\service\CustomerServiceImpl.class
+com\teo\crud\controller\rest\AddressREST.class
+com\teo\crud\data\repository\AddressRepository.class
+com\teo\crud\data\service\AddressServiceImpl.class
+com\teo\crud\data\service\exception\AddressAlreadyExistsException.class
+com\teo\crud\data\model\Address.class
+com\teo\crud\data\service\CustomerService.class

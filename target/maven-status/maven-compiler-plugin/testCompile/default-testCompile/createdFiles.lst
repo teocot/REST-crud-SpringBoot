@@ -1,0 +1,5 @@
+com\teo\crud\data\service\CustomerServiceTest.class
+com\teo\crud\controller\rest\AddressRESTTest.class
+com\teo\crud\controller\rest\CustomerRESTTest.class
+com\teo\crud\data\service\AddressServiceTest.class
+com\teo\crud\util\JsonMappingUtil.class
