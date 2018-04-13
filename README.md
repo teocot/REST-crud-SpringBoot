@@ -1,11 +1,9 @@
 # REST-crud-SpringBoot
-demo of crud rest services using spring with  java
-
-Hi,
+demo of crud rest services using spring boot with java
 
 My name is Teodor Cotruta.
 
-This folder contains the code and maybe the executable for the CRUD project which 
+This folder contains the code and executable for a sample CRUD project which 
 builds REST services for managing customer records. The executable is 27MB containing 
 tomcat and all the required libraries to run the application and tests. 
 
