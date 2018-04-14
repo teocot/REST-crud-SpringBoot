@@ -1,5 +1,3 @@
-Hi,
-
 My name is Teodor Cotruta.
 
 This folder contains the code and the executable for the CRUD project which 
