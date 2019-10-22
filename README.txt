@@ -92,8 +92,6 @@ After the start, the application is available on localhost:8080
 In order to test the REST services, please use the curl commands form below. 
 You can also use soap-ui or postman.
 
-If you have any quesitons, please let me know, email: teodor@xtra.co.nz
-
 TESTING the REST Services
 ============================
 There are 2 groups of services: customer CRUD and address CRUD, managing data for 2 entities: Customer and Address.
