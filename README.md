@@ -51,8 +51,6 @@ The application is available on localhost:8080
 In order to test the REST services, please use the curl commands form below. 
 You can alos use soap ui or postman.
 
-If you have any quesitons, please let me know, email: teodor@xtra.co.nz
-
 
 
 TESTING the REST Services
